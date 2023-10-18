@@ -1,7 +1,7 @@
 # mario-jump
 
 <div>
-  <h1>A simple platform game made with Super Mario assets using HTML, CSS and JavaScript.</h1>
+  <h1>A simple obstacles game made with Super Mario assets using HTML, CSS and JavaScript.</h1>
   <h2>Made using the following video tutorial as basis, but with some personal tweaks:<h2>
   <a href="https://www.youtube.com/watch?v=r9buAwVBDhA"> Video Link </a>
 </div>
